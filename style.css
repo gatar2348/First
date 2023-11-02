@@ -1,0 +1,67 @@
+.LIFESTYLE{
+    width: 71px;
+    height: 19px;
+    margin-top: 71px;
+    margin-left: 300px;
+}
+.PHOTODIARY{
+    width: 89px;
+    height: 19px;
+    margin-top: 71px;
+    margin-left: 485px;
+}
+.MUSIC{
+    width: 44px;
+    height: 19px;
+    margin-top: 71px;
+    margin-bottom: 674px;
+}
+.TRAVEL{
+    width: 52px;
+    height: 19px;
+    margin-top: 71px;
+    margin-bottom: 818px;
+}
+.div1 {
+    width: 420px;
+    height: 546px;
+    margin-top: 182px;
+    margin-left: 148px;
+    display: inline-block;
+}
+.div2{
+    width: 420px;
+    height: 546px;
+    margin-top: 182px;
+    margin-left: 633px;
+    display: inline-block;
+}
+.div3{
+    width: 421px;
+    height: 516px;
+    margin-top: 858px;
+    margin-left: 147px;
+    display: inline-block;
+}
+.div4{
+    width: 420px;
+    height: 516px;
+    margin-top: 858px;
+    margin-left: 633px;
+    display: inline-block;
+}
+.div5{
+    width: 420px;
+    height: 516px;
+    margin-top: 1500px;
+    margin-left: 149px;
+    display: inline-block;
+}
+.div6{
+    width: 420px;
+    height: 516px;
+    margin-top: 1504px;
+    margin-left: 632px;
+    display: inline-block;
+}
+
