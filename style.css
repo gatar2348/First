@@ -2,25 +2,29 @@
     width: 71px;
     height: 19px;
     margin-top: 71px;
-    margin-left: 300px;
+    margin-left: 400px;
+    color: black;
 }
 .PHOTODIARY{
-    width: 89px;
+    width: 72px;
     height: 19px;
     margin-top: 71px;
-    margin-left: 485px;
+    margin-left: 200px;
+    color: black;
 }
 .MUSIC{
     width: 44px;
     height: 19px;
     margin-top: 71px;
-    margin-bottom: 674px;
+    margin-left: 200px;
+    color: black;
 }
 .TRAVEL{
     width: 52px;
     height: 19px;
     margin-top: 71px;
-    margin-bottom: 818px;
+    margin-left: 200px;
+    color: black;
 }
 .div1 {
     width: 420px;
@@ -28,13 +32,17 @@
     margin-top: 182px;
     margin-left: 148px;
     display: inline-block;
+    background-color: grey;
+    color: gold;
 }
 .div2{
     width: 420px;
-    height: 546px;
-    margin-top: 182px;
+    height: 550px;
+    margin-top: 180px;
     margin-left: 633px;
     display: inline-block;
+    background-color: grey;
+    color: gold;
 }
 .div3{
     width: 421px;
@@ -42,6 +50,8 @@
     margin-top: 858px;
     margin-left: 147px;
     display: inline-block;
+    background-color: grey;
+    color: gold;
 }
 .div4{
     width: 420px;
@@ -49,6 +59,8 @@
     margin-top: 858px;
     margin-left: 633px;
     display: inline-block;
+    background-color: grey;
+    color: gold;
 }
 .div5{
     width: 420px;
@@ -56,6 +68,8 @@
     margin-top: 1500px;
     margin-left: 149px;
     display: inline-block;
+    background-color: grey;
+    color: gold;
 }
 .div6{
     width: 420px;
@@ -63,5 +77,25 @@
     margin-top: 1504px;
     margin-left: 632px;
     display: inline-block;
+    background-color: gray;
+    color: gold;
 }
+:root{
+    --primary-color: rgb(128, 128, 128);
+    --secondary-color: rgb(255, 215, 0);
+}
+.LIFESTYLE:hover{
+    color: gold;
+}
+.PHOTODIARY:hover{
+    color: gold;
+}
+.MUSIC:hover{
+    color: gold;
+}
+.TRAVEL:hover{
+    color: gold;
+}
+
+
 
